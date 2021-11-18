@@ -1,0 +1,6 @@
+VN, Vietnam
+GR, Greece
+EG, Egypt
+IT, Italy
+MV, Maldives
+FR, France
